@@ -1,3 +1,3 @@
-##Homelessnes: Sheltered & Unsheltered
-######Project Description
+## Homelessnes: Sheltered & Unsheltered
+###### Project Description
 The aim of this map was to showcase the total homeless population per state in the United States, as well as the total number of sheltered vs. unsheltered people. Keeping whole numbers instead of percentages would allow to numbers to have a higher and more realistic impact. The choropleth symbology applied to total homelessnes counts allows one to see where homelessness counts are the highest. To point data that was to be applied would have showcased the number of sheltered vs unsheltered, showing the disparity between the two. As far as the visible symbology, mouseover events allows the one to gather the name of the state and homelessness county. Libraries used for this map include leaflet, CSS, JavaScript and HTML coding. Although unvisible fontawesome would have also been used two showcase the second set of information. Data for this map were obtained from the U.S. Census Bureau as well as the United States Council on Homelessness.
